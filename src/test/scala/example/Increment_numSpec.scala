@@ -19,6 +19,7 @@ class CalcTest extends FunSpec{
   }
 }
 
+// We can write test as natural langurage if we use "Flatspec with Matcher"
 /*
 class HelloSpec extends FlatSpec with Matchers {
   "The Hello object" should "say hello" in {
